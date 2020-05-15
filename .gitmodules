@@ -1,0 +1,3 @@
+[submodule "ml_model/COVID-Net"]
+	path = ml_model/COVID-Net
+	url = https://github.com/lindawangg/COVID-Net.git
